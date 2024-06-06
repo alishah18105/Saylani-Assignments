@@ -1,3 +1,6 @@
+/* : Write a program to calculate root of any number.
+i.e: √y = y½ */
+
 import "dart:math";
 void main(){
   int number = 49;
