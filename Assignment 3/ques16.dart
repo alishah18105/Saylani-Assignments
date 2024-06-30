@@ -7,7 +7,6 @@
 import 'dart:io';
 
 void main() {
-  print("Full Pyramid Pattern of Stars (*): ");
   int rows = 4;
 
   for (int i = 0; i < rows; i++) {
