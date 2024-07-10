@@ -1,3 +1,10 @@
+/*Write a C program to calculate profit and loss on a transaction.
+Input :
+500 700
+Output :
+You can booked your profit amount : 200  */
+
+
 import "dart:io";
 
 void main(){

@@ -1,6 +1,10 @@
+/*Write a program to print all Armstrong numbers under 1000.
+Example:
+Input: 153
+153 = 1*1*1 + 5*5*5 + 3*3*3
+Output: 153 is an Armstrong number. */
+
 import "dart:io";
-
-
 void main(){
   print("Enter anuy number");
   int numb = int.parse(stdin.readLineSync()!);
